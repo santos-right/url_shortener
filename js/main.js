@@ -1,3 +1,5 @@
+// code for the typing animation header in the UI
+
 var typed = new Typed('.typing', {
     strings: ["Shorten Your Long URL With Ease"],
     typeSpeed: 310,
